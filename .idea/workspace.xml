@@ -7,38 +7,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9074328a-a8b3-4e18-be12-55aaf85ca31e" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/../Mybatis/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Mybatis/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Mybatis/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring/src/main/java/com/hz/mapper/GirlMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring/src/main/java/com/hz/pojo/Girl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring/src/main/java/com/hz/util/MybatisUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring/src/main/resources/MybatisCfg.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring/src/main/resources/com.hz.mapper/GirlMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spring/src/test/java/com/hz/test1.java" afterDir="false" />
-      <change afterPath="$APPLICATION_CONFIG_DIR$/options/colors.scheme.xml" afterDir="false" />
-      <change afterPath="$APPLICATION_CONFIG_DIR$/options/databaseSettings.xml" afterDir="false" />
-      <change afterPath="$APPLICATION_CONFIG_DIR$/options/debugger.renderers.xml" afterDir="false" />
-      <change afterPath="$APPLICATION_CONFIG_DIR$/options/git.xml" afterDir="false" />
-      <change afterPath="$APPLICATION_CONFIG_DIR$/options/github_settings.xml" afterDir="false" />
-      <change afterPath="$APPLICATION_CONFIG_DIR$/options/javaeeAppServers.xml" afterDir="false" />
-      <change afterPath="$APPLICATION_CONFIG_DIR$/options/javaeeExternalResources.xml" afterDir="false" />
-      <change afterPath="$APPLICATION_CONFIG_DIR$/options/keymap.xml" afterDir="false" />
-      <change afterPath="$APPLICATION_CONFIG_DIR$/options/mavenVersion.xml" afterDir="false" />
-      <change afterPath="$APPLICATION_CONFIG_DIR$/options/mybatis.xml" afterDir="false" />
-      <change afterPath="$APPLICATION_CONFIG_DIR$/options/runner.layout.xml" afterDir="false" />
-      <change afterPath="$APPLICATION_CONFIG_DIR$/options/toStringTemplates.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/src/main/java/com/hz/mapper/GirlMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring/src/main/java/com/hz/mapper/GirlMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/src/main/java/com/hz/pojo/Girl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring/src/main/java/com/hz/pojo/Girl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/src/main/java/com/hz/util/MybatisUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring/src/main/java/com/hz/util/MybatisUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/src/main/resources/com.hz.mapper/GirlMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring/src/main/resources/com.hz.mapper/GirlMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring/src/test/java/com/hz/test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring/src/test/java/com/hz/test1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../comymSpring/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dsfs/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dsfs/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dsfs/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$APPLICATION_CONFIG_DIR$/options/mybatis.xml" beforeDir="false" afterPath="$APPLICATION_CONFIG_DIR$/options/mybatis.xml" afterDir="false" />
+      <change beforePath="$APPLICATION_CONFIG_DIR$/options/runner.layout.xml" beforeDir="false" afterPath="$APPLICATION_CONFIG_DIR$/options/runner.layout.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -49,10 +30,27 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="194">
+              <caret line="197" column="25" lean-forward="true" selection-start-line="197" selection-start-column="25" selection-end-line="197" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -269,25 +267,28 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1544625139378</updated>
-      <workItem from="1544625140708" duration="1870000" />
+      <workItem from="1544625140708" duration="2528000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1870000" />
+    <option name="totallyTimeSpent" value="2528000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="16" y="57" width="1264" height="739" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" weight="0.32866043" />
       <window_info anchor="bottom" id="Application Servers" weight="0.32866043" />
       <window_info anchor="right" id="Maven Projects" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="right" id="CDI" />
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
       <window_info anchor="right" id="Database" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="JSF" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
@@ -299,8 +300,10 @@
       <window_info anchor="right" id="Capture Analysis" />
       <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32866043" />
       <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Spring" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24959083" />
+      <window_info anchor="right" id="Bean Validation" />
       <window_info id="Web" side_tool="true" />
       <window_info id="Learn" />
       <window_info anchor="right" id="Theme Preview" />
@@ -322,8 +325,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="582">
-          <caret line="39" column="16" lean-forward="true" selection-start-line="39" selection-start-column="16" selection-end-line="39" selection-end-column="16" />
+        <state relative-caret-position="194">
+          <caret line="197" column="25" lean-forward="true" selection-start-line="197" selection-start-column="25" selection-end-line="197" selection-end-column="25" />
         </state>
       </provider>
     </entry>
